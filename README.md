@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 I’m currently working on a Robinhood Clone, I really like its UI.
+
+- 🌱 I've recently completed Nucamp's Full Stack Web and App Development course, which taught me how to use the MERN Stack. Most of my repos here are from the different exercises I did with a variety of technologies. I plan on continuing my dive into MERN and NODE.js especially.
 
 <!--
 **Ry-E/Ry-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
