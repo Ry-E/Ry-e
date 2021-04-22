@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a Robinhood Clone, I really like its UI.
+- 🔭 I’m currently working on a Robinhood Clone, I really appreciate how friendly the UX is.
 
 - 🌱 I've recently completed Nucamp's Full Stack Web and App Development course, which taught me how to use the MERN Stack. Most of my repos here are from the different exercises I did with a variety of technologies. I plan on continuing my dive into MERN and NODE.js especially.
 
